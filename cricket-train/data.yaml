@@ -1,6 +1,6 @@
-train: /content/cricket-yolo/cricket-train/train/images
-val: /content/cricket-yolo/cricket-train/valid/images
-test: /content/cricket-yolo/cricket-train/train/images
+train: /content/cricket-sort-yoloV7/cricket-train/train/images
+val: /content/cricket-sort-yoloV7/cricket-train/valid/images
+test: /content/cricket-sort-yoloV7/cricket-train/train/images
 
 nc: 2
 names: ['egg', 'no egg']
